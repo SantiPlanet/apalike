@@ -35,13 +35,13 @@ Igual que el estilo original 'apalike' pero reemplazando el archivo `apalike.bst
 \bibliographystyle{apalike-es}
 ```
 
-Estas son las partes traducidas (siguiendo las reglas de la RAE):
+### Detalles de la traducción a español
 
 * pages --> pp.
 * page --> p.
 * et~al. --> \textit{et al.} (la RAE marca que et al. equivale a un extanjerismo y debe ir en cursiva)
 * volume --> volumen
-* >number --> número
+* number --> número
 * chapter --> capítulo
 * In --> En
 * and --> y Pero si el apellido comienza por "I" la "y" pasa a ser "e"
@@ -62,7 +62,7 @@ Feu-ho servir de la mateixa manera que l'estil original 'apalike' però substitu
 \bibliographystyle{apalike-ca}
 ```
 
-Aquestes són les parts traduïdes:
+### Detalls de la traducció a català
 
 * pages --> p. (http://www.uoc.edu/serveilinguistic/criteris/convencions/abreviacions.html)
 * page --> p.
