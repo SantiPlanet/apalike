@@ -1,5 +1,7 @@
 # BibTeX apalike bibliography style: Spanish and Catalan versions
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=VFQSX28Z9SW84&currency_code=EUR)
+
 This project is the translation and adaptation of the apalike BibTeX style to Spanish and Catalan. Translations are according to the rules of Real Academia Española (RAE) for the Spanish adaptation and Institut d'Estudis Catalans (IEC) for the Catalan adaptation.
 
 The apalike (APA like) BibTeX style belongs to the extended set of standard BibTeX styles. It's called APA like since it does not implement the full APA citation rules. That's because some fields like translator do not belong to the standard fields that are supported in BibTeX (https://www.bibtex.com/s/bibliography-style-base-apalike).
@@ -51,6 +53,12 @@ Igual que el estilo original apalike pero reemplazando el archivo `apalike.bst` 
 * Mater's thesis --> Tesis de máster
 * edition --> edición
 
+### Donativo
+
+Si te ha resultado útil, ¡puedes invitarme a un café!
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=VFQSX28Z9SW84&currency_code=EUR)
+
 ## Estil bibliogràfic apalike en català
 
 Aquesta és la versió en català de l'estil bibliogràfic aplike de BibTeX.
@@ -78,3 +86,8 @@ Feu-ho servir de la mateixa manera que l'estil original apalike però substituin
 * Master's thesis --> Tesi de màster
 * edition --> edició
 
+### Donatiu
+
+Si aquest projecte t'ha resultat d'utilitat, pots convidar-me a un cafè!
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=VFQSX28Z9SW84&currency_code=EUR)
