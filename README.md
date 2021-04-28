@@ -1,25 +1,41 @@
-<h1>BibTeX apalike bibliography style: Spanish and Catalan versions</h1>
-<h2>English description</h2>
+#BibTeX apalike bibliography style: Spanish and Catalan versions
+##English description</h2>
 
-This are the Spanish and Catalan versions of the BibTeX 'apalike' bibliograpy style.
+This are the Spanish and Catalan versions of the BibTeX Apalike bibliograpy style.
 
 Translated and adapted by Santi Planet.
 
-Translations are according to the rules of Real Academia Española (RAE) for the Spanish adaptation and Institut d'Estudis Catalans (IEC) for the Catalan adapatation.
+Translations are according to the rules of Real Academia Española (RAE) for the Spanish adaptation and Institut d'Estudis Catalans (IEC) for the Catalan adaptation.
 
-<h3>Usage</h3>
+###Usage
 
-Use it in the same way than the original 'apalike' style but replacing the 'apalike.bst' file with the 'apalike-es.bst' file and adding the line '\bibliographystyle{apalike-es}' or '\bibliographystyle{apalike-ca}' in the main file of the document.
+Use it in the same way than the original 'apalike' style but:
 
-<h2>Estilo bibliográfico apalike en español</h2>
+For the Spanish version, replace the `apalike.bst` file with the `apalike-es.bst` file and adding this line in the main file of the document:
+
+```
+\bibliographystyle{apalike-es}
+```
+
+For the Catalan version, replace the `apalike.bst` file with the `apalike-ca.bst` file and adding this line:
+
+```
+\bibliographystyle{apalike-ca}
+```
+
+##Estilo bibliográfico apalike en español
 
 Esta es la versión en español del estilo bibliográfico 'apalike' de BibTeX.
 
 Traducido y adaptado por Santi Planet.
 
-<h3>Instrucciones de uso</h3>
+###Instrucciones de uso
 
-Igual que el estilo original 'apalike2 pero reemplazando el archivo 'apalike.bst' por el archivo 'apalike-es.bst' y añadiendo la línea '\bibliographystyle{apalike-es}' en el archivo principal del documento.
+Igual que el estilo original 'apalike' pero reemplazando el archivo `apalike.bst` por el archivo `apalike-es.bst` y añadiendo la siguiente línea en el archivo principal del documento:
+
+```
+\bibliographystyle{apalike-es}
+```
 
 Estas son las partes traducidas (siguiendo las reglas de la RAE):
 
@@ -38,15 +54,19 @@ Estas son las partes traducidas (siguiendo las reglas de la RAE):
 <li>edition --> edición</li>
 </ul>
 
-<h2>Estil bibliogràfic apalike en català</h2>
+##Estil bibliogràfic apalike en català
 
 Aquesta és la versió en català de l'estil bibliogràfic 'aplike' de BibTeX.
 
 Traduït i adaptat per Santi Planet.
 
-<h3>Instruccions d'ús</h3>
+###Instruccions d'ús
 
-Feu-ho servir de la mateixa manera que l'estil original 'apalike' però substituint l'arxiu 'apalike.bst' per l'arxiu 'apalike-ca.bst' i afegint la línia '\bibliographystyle{apalike-ca}' a l'arxiu principal del document.
+Feu-ho servir de la mateixa manera que l'estil original 'apalike' però substituint l'arxiu `apalike.bst` per l'arxiu `apalike-ca.bst` i afegint la següent línia a l'arxiu principal del document: 
+
+```
+\bibliographystyle{apalike-ca}
+```
 
 Aquestes són les parts traduïdes:
 
