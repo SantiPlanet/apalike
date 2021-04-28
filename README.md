@@ -1,7 +1,5 @@
 # BibTeX apalike bibliography style: Spanish and Catalan versions
 
-## English description</h2>
-
 This project is the translation and adaptation of the apalike BibTeX style to Spanish and Catalan. Translations are according to the rules of Real Academia Española (RAE) for the Spanish adaptation and Institut d'Estudis Catalans (IEC) for the Catalan adaptation.
 
 The apalike (APA like) BibTeX style belongs to the extended set of standard BibTeX styles. It's called APA like since it does not implement the full APA citation rules. That's because some fields like translator do not belong to the standard fields that are supported in BibTeX (https://www.bibtex.com/s/bibliography-style-base-apalike).
