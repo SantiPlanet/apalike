@@ -45,7 +45,7 @@ Igual que el estilo original apalike pero reemplazando el archivo `apalike.bst` 
 * number --> número
 * chapter --> capítulo
 * In --> En
-* and --> y Pero si el apellido comienza por "I" la "y" pasa a ser "e"
+* and --> y (Pero si el apellido comienza por "I" la "y" pasa a ser "e")
 * editors --> editores
 * PhD Thesis --> Tesis doctoral
 * Mater's thesis --> Tesis de máster
