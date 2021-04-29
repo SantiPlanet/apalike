@@ -2,7 +2,7 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=VFQSX28Z9SW84&currency_code=EUR)
 
-This project is the translation and adaptation of the apalike BibTeX style to Spanish and Catalan. Translations are according to the rules of Real Academia Española (RAE) for the Spanish adaptation and Institut d'Estudis Catalans (IEC) for the Catalan adaptation.
+This project is the translation and adaptation of the apalike BibTeX style to Spanish and Catalan. Translations follow the rules of Real Academia Española (RAE) for the Spanish version and Institut d'Estudis Catalans (IEC) for the Catalan version.
 
 The apalike (APA like) BibTeX style belongs to the extended set of standard BibTeX styles. It's called APA like since it does not implement the full APA citation rules. That's because some fields like translator do not belong to the standard fields that are supported in BibTeX (https://www.bibtex.com/s/bibliography-style-base-apalike).
 
@@ -10,13 +10,13 @@ The apalike (APA like) BibTeX style belongs to the extended set of standard BibT
 
 Use it in the same way than the original apalike style but:
 
-For the Spanish version, replace the `apalike.bst` file with the `apalike-es.bst` file and adding this line in the main file of the document:
+For the Spanish version, replace the `apalike.bst` file with the `apalike-es.bst` file and add this line to the main file of the document:
 
 ```
 \bibliographystyle{apalike-es}
 ```
 
-For the Catalan version, replace the `apalike.bst` file with the `apalike-ca.bst` file and adding this line:
+For the Catalan version, replace the `apalike.bst` file with the `apalike-ca.bst` file and add this line to the main file of the document:
 
 ```
 \bibliographystyle{apalike-ca}
